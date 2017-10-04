@@ -1,2 +1,2 @@
-Date: 9/26/17
-Title: Projects 5 and 6
+Date: 10/04/17
+Title: Projects 7 and 8
