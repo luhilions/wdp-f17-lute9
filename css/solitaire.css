@@ -10,5 +10,45 @@
  left: 25px;
 }
 
+.back {
+ background-image: url('../images/card.png');
+ position: absolute;
+ top: 40px;
+ left: 110px;
+ z-index: 1;
+}
+
+.fourth {
+ background-image: url('../images/kingspades.png');
+ position: absolute;
+ top: 40px;
+ left: 110px;
+ z-index: 1;
+}
+
+.middle {
+ background-image: url('../images/queenhearts.png');
+ position: absolute;
+ top: 40px;
+ left: 110px;
+ z-index: 1;
+}
+
+.second {
+ background-image: url('../images/jackclubs.png');
+ position: absolute;
+ top: 40px;
+ left: 110px;
+ z-index: 1;
+}
+
+.top {
+ background-image: url('../images/.jpg');
+ position: absolute;
+ top: 40px;
+ left: 110px;
+ z-index: 1;
+}
+
 
 
