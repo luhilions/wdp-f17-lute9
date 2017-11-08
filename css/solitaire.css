@@ -21,7 +21,7 @@
 .fourth {
  background-image: url('../images/kingspades.png');
  position: absolute;
- top: 80px;
+ top: 75px;
  left: 110px;
  z-index: 2;
 }
@@ -29,7 +29,7 @@
 .middle {
  background-image: url('../images/queenhearts.png');
  position: absolute;
- top: 120px;
+ top: 110px;
  left: 110px;
  z-index: 3;
 }
@@ -37,7 +37,7 @@
 .second {
  background-image: url('../images/jackclubs.png');
  position: absolute;
- top: 160px;
+ top: 145px;
  left: 110px;
  z-index: 4;
 }
@@ -45,7 +45,7 @@
 .top {
  background-image: url('../images/tendiamonds.png');
  position: absolute;
- top: 190px;
+ top: 180px;
  left: 110px;
  z-index: 5;
 }
