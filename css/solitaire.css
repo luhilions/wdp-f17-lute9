@@ -58,7 +58,6 @@
 .gradient {
  background-image: url('../images/gradient.jpg');
  background-repeat: repeat-x;
- background-repeat: repeat-y;
  background-color: gray;
 }
 
